@@ -52,3 +52,7 @@ df -h
 [Saver más sobre Linuxs ](https://laptopwithlinux.com/linux-laptops/?msclkid=1c33680a9923102db7ba02f8bec90959)
 ![Simbolo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_wY3hirmbTlhHpLzFzwQBdMTPoCTK34GgbjUYQd18Jwk3hwT09WncWFU&s=10)
 > Linux ofrece total libertad y control sobre el sistema, pero requiere una gestión rigurosa de permisos y copias de seguridad para garantizar su seguridad.
+## Información del proyecto
+Esta documentación se ha elaborado utilizando Markdown.
+El control de versiones se realiza mediante Git
+y el repositorio remoto se encuentra alojado en GitHub.
