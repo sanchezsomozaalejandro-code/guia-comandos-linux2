@@ -58,7 +58,7 @@ Esta documentación se ha elaborado utilizando Markdown.
 El control de versiones se realiza mediante Git
 y el repositorio remoto se encuentra alojado en GitHub.
 ## Próximas mejoras
-# 1. Comandos de **recirecciones y tuberiaas** para encadenar comandos
+# 1. Comandos de **redirecciones y tuberías** para encadenar comandos
 ```Bash
 |
 >
@@ -68,7 +68,7 @@ y el repositorio remoto se encuentra alojado en GitHub.
 chmod
 chown
 ```
-# 3. Comandos de **monitorización de procesos y red** (ps, top, ss, ip a).
+# 3. Comandos de **monitorización de procesos y red** 
 ```Bash
 ps
 top
